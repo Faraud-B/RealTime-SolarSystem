@@ -7,11 +7,11 @@ The position on the orbit was computed using Keplerian elements of each planet a
 
 The positions of the 8 planets and the Moon on their orbits are accurate and update accordingly to the time of the year (estimated from the current date).
 <br>
-![RealTime-SolarSystem](https://github.com/Cottard-Faraud/RealTime-SolarSystem/blob/main/Assets/Misc/RealTime-SolarSystem-Demo.gif)
+![RealTime-SolarSystem](Assets/Misc/RealTime-SolarSystem-Demo.gif)
 
 Also the rotation of the Earth is correct and shows precisely which side faces the Sun.
 <br>
-![RealTime-SolarSystem](https://github.com/Cottard-Faraud/RealTime-SolarSystem/blob/main/Assets/Misc/RealTime-Earth-Demo.gif)
+![RealTime-SolarSystem](Assets/Misc/RealTime-Earth-Demo.gif)
 
 The other planets (note that the navigation between the solar system or the planets is done freely by clicking on the planets sprites or the return button) : <br>
-![RealTime-SolarSystem](https://github.com/Cottard-Faraud/RealTime-SolarSystem/blob/main/Assets/Misc/Planets-Demo.gif)
+![RealTime-SolarSystem](Assets/Misc/Planets-Demo.gif)
